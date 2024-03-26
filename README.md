@@ -33,7 +33,7 @@ Data perubahan kode wilayah atas pembentukan provinsi Papua Barat Daya belum ada
 | 19  | 53   | NUSA TENGGARA TIMUR           | 21   | 1    | 315  | 305  | 3.137| 46.446,644               | 5.514.216              | 609          |
 | 20  | 61   | KALIMANTAN BARAT              | 12   | 2    | 174  | 99   | 2.046| 147.037,037              | 5.482.046              | 253          |
 | 21  | 62   | KALIMANTAN TENGAH             | 13   | 1    | 136  | 139  | 1.432| 153.443,908              | 2.672.790              | 69           |
-| 22  | 63   | KALIMANTAN SELATAN            | 11   | 2    | 156  | 144  | 1.872| 37.135,054               | 4.141.533              | 16516        |
+| 22  | 63   | KALIMANTAN SELATAN            | 11   | 2    | 156  | 144  | 1.872| 37.135,054               | 4.141.533              | 165        |
 | 23  | 64   | KALIMANTAN TIMUR              | 7    | 3    | 105  | 197  | 841  | 126.981,279              | 3.891.849              | 243          |
 | 24  | 65   | KALIMANTAN UTARA              | 4    | 1    | 55   | 35   | 447  | 70.101,184               | 709.620                | 196          |
 | 25  | 71   | SULAWESI UTARA                | 11   | 4    | 171  | 332  | 1.507| 14.500,275               | 2.664.313              | 353          |
